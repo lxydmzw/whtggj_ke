@@ -1,0 +1,11 @@
+/fileconfig.json
+/index.html
+/index.js
+/js/bundle.js
+/libs/laya.core.js
+/libs/laya.physics.js
+/libs/laya.ui.js
+/res/atlas/comp.atlas
+/res/atlas/comp.png
+/unpack.json
+/version.json
