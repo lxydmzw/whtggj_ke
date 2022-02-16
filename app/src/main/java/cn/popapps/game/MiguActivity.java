@@ -5,7 +5,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
 
-import cn.popapps.game.xxx.R;
+import com.shipan.h5pd002.R;
+
 
 public class MiguActivity extends Activity {
     @Override

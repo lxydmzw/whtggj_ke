@@ -10,7 +10,7 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.TextView;
 
-import cn.popapps.game.xxx.R;
+import com.shipan.h5pd002.R;
 
 
 public class SplashDialog extends Dialog {

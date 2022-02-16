@@ -23,10 +23,6 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.webkit.ValueCallback;
-import android.widget.FrameLayout;
-import android.widget.ImageView;
-
-import cn.popapps.game.xxx.R;
 
 
 public class MainActivity extends Activity{
